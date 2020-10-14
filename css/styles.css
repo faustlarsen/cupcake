@@ -57,5 +57,26 @@ h1 {
 
 img {
   width: 2in;
-  float:  center;
+  margin-left: 0.9in;
+}
+
+.sidebar {
+  width: 3in;
+  height: 5in;
+  float: right;
+  background-color: rgb(150, 1, 250);
+  font-style: oblique;
+  font-family: fantasy;
+  color: rgb(255, 208, 0);
+  border-radius: 50px;
+  line-height: 30px;
+}
+
+.image {
+  width: 2in;
+  
+}
+
+ul li {
+  
 }
