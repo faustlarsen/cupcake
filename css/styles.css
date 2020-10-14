@@ -1,5 +1,4 @@
 p {
-  
   font-size: 10px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -7,16 +6,13 @@ p {
 .flashy {
   font-style: italic;
   color: red;
-
 }
 
 .best {
-
   font-size: 20px;
   font-family: fantasy;
   font-style: bold;
   color: rgb(230, 173, 206);
-
 }
 
 h3 {
@@ -43,15 +39,52 @@ h1 {
 }
 
 .cup1 {
-  float: left;
-  width: 350px;
-  margin-left: 2in;
+  float: ;
+  margin-left: cm;
+  border-radius: 20px;
+  background-color: rgb(150, 1, 250);
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  padding: 10px;
+  height: 4in;
+  width: 4in;
 }
 
 .cup2 {
-  float: right;
-  width: 350px;
-  margin-right: 2in;
+  float: ;
+  margin-left: cm;
+  border-radius: 20px;
+  background-color: rgb(150, 1, 250);
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  padding: 10px;
+  height: 4in;
+  width: 4in;
+}
+
+.cup3 {
+  float: ;
+  margin-right: 1cm;
+  border-radius: 20px;
+  background-color: rgb(150, 1, 250);
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  padding: 10px;
+  height: 4in;
+  width: 4in;
+  margin-top: cm;
+}
+
+.cup4 {
+  float: ;
+  margin-left: cm;
+  border-radius: 20px;
+  background-color: rgb(150, 1, 250);
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  padding: 10px;
+  height: 4in;
+  width: 4in;
 }
 
 .burger {
@@ -60,9 +93,8 @@ h1 {
 }
 
 .sidebar {
-  width: 3in;
-  height: 5in;
-  float: right;
+  float: ;
+  margin-left: cm;
   background-color: rgb(150, 1, 250);
   font-style: oblique;
   font-family: fantasy;
@@ -72,10 +104,28 @@ h1 {
   border-style: solid;
   border-color: rgb(255, 208, 0);
   padding: 0%;
+  width: 3in;
+  height: 4.2in;
+}
+
+.sidebar2 {
+  float: left;
+  margin-left: cm;
+  background-color: rgb(150, 1, 250);
+  font-style: oblique;
+  font-family: fantasy;
+  color: rgb(255, 208, 0);
+  border-radius: 50px;
+  line-height: 30px;
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  padding: 0%;
+  width: 3in;
+  height: 4.2in;
 }
 
 .image {
-  width: 2in;
-  margin-left: 0.1in;
-  margin-top: 0.3in;
+  width: 1.5in;
+  margin-left: 0.3in;
+  margin-top: 0in;
 }
