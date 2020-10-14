@@ -35,7 +35,6 @@ h2 {
   color: pink;
 }
 
-
 h1 {
   text-align: center;
   font-size: 30px;
@@ -46,16 +45,16 @@ h1 {
 .cup1 {
   float: left;
   width: 350px;
-  margin-left: 3in;
+  margin-left: 2in;
 }
 
 .cup2 {
   float: right;
   width: 350px;
-  margin-right: 3in;
+  margin-right: 2in;
 }
 
-img {
+.burger {
   width: 2in;
   margin-left: 0.9in;
 }
@@ -70,13 +69,13 @@ img {
   color: rgb(255, 208, 0);
   border-radius: 50px;
   line-height: 30px;
+  border-style: solid;
+  border-color: rgb(255, 208, 0);
+  padding: 0%;
 }
 
 .image {
   width: 2in;
-  
-}
-
-ul li {
-  
+  margin-left: 0.1in;
+  margin-top: 0.3in;
 }
