@@ -1,5 +1,5 @@
 p {
-  font-size: 10px;
+  font-size: 13px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -20,7 +20,7 @@ h3 {
   text-align: center;
   font-style: bold;
   font-family: fantasy;
-  color: gold
+  color: rgb(0, 0, 0)
 }
 
 h2 {
@@ -36,14 +36,14 @@ h1 {
   text-align: center;
   font-size: 1in;
   font-family: fantasy;
-  color: rgb(255, 208, 0);
+  color: rgb(187, 96, 248);
 }
 
 .cup1 {
   float: left;
-  margin-left: 1cm;
+  margin-left: 2cm;
   border-radius: 20px;
-  background-color: rgb(150, 1, 250);
+  background-color: rgb(139, 247, 125);
   border-style: solid;
   border-color: rgb(8, 219, 247);
   padding: 10px;
@@ -54,9 +54,9 @@ h1 {
 
 .cup2 {
   float: left;
-  margin-left: 1cm;
+  margin-left: 2cm;
   border-radius: 20px;
-  background-color: rgb(150, 1, 250);
+  background-color: rgb(101, 193, 255);
   border-style: solid;
   border-color: rgb(21, 255, 0);
   padding: 10px;
@@ -67,9 +67,9 @@ h1 {
 
 .cup3 {
   float: left;
-  margin-left: 1cm;
+  margin-left: 2cm;
   border-radius: 20px;
-  background-color: rgb(150, 1, 250);
+  background-color: rgb(250, 163, 1);
   border-style: solid;
   border-color :rgb(0, 60, 255);
   padding: 10px;
@@ -77,62 +77,89 @@ h1 {
   width: 4in;
   margin-top: cm;
   box-sizing: border-box;
+  margin-top: 2cm;
 }
 
 .cup4 {
   float: left;
-  margin-left: 1cm;
+  margin-left: 2cm;
   border-radius: 20px;
-  background-color: rgb(150, 1, 250);
+  background-color: rgb(240, 255, 155);
   border-style: solid;
-  border-color: rgb(231, 8, 8);
+  border-color: rgb(7, 0, 0);
   padding: 10px;
   height: 4in;
   width: 4in;
   box-sizing: border-box;
+  margin-top: 2cm;
 }
 
-.burger {
-  width: 2in;
-  margin-left: 0.9in;
+#burger {
+  width: 1.8in;
+  margin-left: 0.2in;
+}
+
+#milkshake {
+  width: 1in;
+  height: 1.9in;
+  margin-left: 0.6in;
+  margin-bottom: 1in;
 }
 
 .sidebar {
   float: left;
-  margin-left: 1cm;
+  margin-left: 2cm;
   background-color: rgb(150, 1, 250);
   font-style: oblique;
   font-family: fantasy;
   color: rgb(255, 208, 0);
   border-radius: 50px;
-  line-height: 30px;
+  line-height: 28px;
   border-style: solid;
   border-color: rgb(255, 208, 0);
   padding: 0%;
   width: 3in;
-  height: 4.2in;
+  height: 4in;
   box-sizing: border-box;
 }
 
 .sidebar2 {
   float: left;
-  margin-left: 1cm;
-  background-color: rgb(150, 1, 250);
+  margin-left: 2cm;
+  background-color: rgb(133, 247, 237);
   font-style: oblique;
   font-family: fantasy;
-  color: rgb(255, 208, 0);
+  color: rgb(0, 25, 253);
   border-radius: 50px;
-  line-height: 30px;
+  line-height: 28px;
   border-style: solid;
   border-color: rgb(255, 208, 0);
   padding: 0%;
   width: 3in;
-  height: 4.2in;
+  height: 4in;
   box-sizing: border-box;
+  margin-top: 2cm;
 }
 
-.image {
-  width: 1.5in;
-  margin-left: 0.3in;
-  margin-top: 0in;
+#cup1 {
+  width: 2in;
+  margin-left: 1in;
+}
+#cup2 {
+  width: 2.3in;
+  margin-left: 0.8in;
+}
+#cup3 {
+  width: 1.8in;
+  margin-left: 1in;
+}
+#cup4 {
+  width: 1.8in;
+  margin-left: 1in;
+  margin-bottom: 0.3in;
+}
+
+body {
+  background-image: url('../img/polka.jpg');
+  background-position: center;
 }
