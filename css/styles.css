@@ -28,63 +28,68 @@ h2 {
   font-size: 20px;
   font-family: fantasy;
   font-style: bold;
-  color: pink;
+  color: rgb(255, 255, 255);
 }
 
 h1 {
+
   text-align: center;
-  font-size: 30px;
+  font-size: 1in;
   font-family: fantasy;
   color: rgb(255, 208, 0);
 }
 
 .cup1 {
-  float: ;
-  margin-left: cm;
+  float: left;
+  margin-left: 1cm;
   border-radius: 20px;
   background-color: rgb(150, 1, 250);
   border-style: solid;
-  border-color: rgb(255, 208, 0);
+  border-color: rgb(8, 219, 247);
   padding: 10px;
   height: 4in;
   width: 4in;
+  box-sizing: border-box;
 }
 
 .cup2 {
-  float: ;
-  margin-left: cm;
+  float: left;
+  margin-left: 1cm;
   border-radius: 20px;
   background-color: rgb(150, 1, 250);
   border-style: solid;
-  border-color: rgb(255, 208, 0);
+  border-color: rgb(21, 255, 0);
   padding: 10px;
   height: 4in;
   width: 4in;
+  box-sizing: border-box;
 }
 
 .cup3 {
-  float: ;
-  margin-right: 1cm;
+  float: left;
+  margin-left: 1cm;
   border-radius: 20px;
   background-color: rgb(150, 1, 250);
   border-style: solid;
-  border-color: rgb(255, 208, 0);
+  border-color :rgb(0, 60, 255);
   padding: 10px;
   height: 4in;
   width: 4in;
   margin-top: cm;
+  box-sizing: border-box;
 }
 
 .cup4 {
-  float: ;
-  margin-left: cm;
+  float: left;
+  margin-left: 1cm;
   border-radius: 20px;
   background-color: rgb(150, 1, 250);
   border-style: solid;
-  border-color: rgb(255, 208, 0);
+  border-color: rgb(231, 8, 8);
   padding: 10px;
   height: 4in;
   width: 4in;
+  box-sizing: border-box;
 }
 
 .burger {
@@ -93,8 +98,8 @@ h1 {
 }
 
 .sidebar {
-  float: ;
-  margin-left: cm;
+  float: left;
+  margin-left: 1cm;
   background-color: rgb(150, 1, 250);
   font-style: oblique;
   font-family: fantasy;
@@ -106,11 +111,12 @@ h1 {
   padding: 0%;
   width: 3in;
   height: 4.2in;
+  box-sizing: border-box;
 }
 
 .sidebar2 {
   float: left;
-  margin-left: cm;
+  margin-left: 1cm;
   background-color: rgb(150, 1, 250);
   font-style: oblique;
   font-family: fantasy;
@@ -122,6 +128,7 @@ h1 {
   padding: 0%;
   width: 3in;
   height: 4.2in;
+  box-sizing: border-box;
 }
 
 .image {
